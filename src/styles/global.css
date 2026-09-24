@@ -1935,11 +1935,12 @@ body::before {
   }
 
   .footer-grid>.f-col--right .f-title {
-    text-align: right;
+    text-align: center;
   }
 
   .footer-grid>.f-col--right .f-item {
     justify-content: flex-end;
+    text-align: center;
   }
 
   .footer-map {
